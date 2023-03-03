@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Parking Lot/task" />
+            <option value="$PROJECT_DIR$/Parking Lot/task/build/classes/kotlin" />
+            <option value="$PROJECT_DIR$/Parking Lot/task/build/reports/tests" />
+            <option value="$PROJECT_DIR$/Parking Lot/task/build/test-results" />
+            <option value="$PROJECT_DIR$/Parking Lot/task/build/tmp" />
+            <option value="$PROJECT_DIR$/Topics/Arrays/How to create an array" />
+            <option value="$PROJECT_DIR$/Topics/Arrays/Initializing an array" />
+            <option value="$PROJECT_DIR$/Topics/Arrays/Initializing an array of characters" />
+            <option value="$PROJECT_DIR$/Topics/Arrays/Initializing an array of integers" />
+            <option value="$PROJECT_DIR$/Topics/Arrays/Initializing an array of longs" />
+            <option value="$PROJECT_DIR$/Topics/Arrays/Printing the last element" />
+            <option value="$PROJECT_DIR$/Topics/Arrays/Swap elements" />
+            <option value="$PROJECT_DIR$/Topics/Arrays/The first element of an array" />
+            <option value="$PROJECT_DIR$/Topics/Arrays/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Characters/Comparing numbers and characters" />
+            <option value="$PROJECT_DIR$/Topics/Characters/Digits or not" />
+            <option value="$PROJECT_DIR$/Topics/Characters/Encoding table" />
+            <option value="$PROJECT_DIR$/Topics/Characters/Previous character" />
+            <option value="$PROJECT_DIR$/Topics/Characters/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Constructors/Bank account" />
+            <option value="$PROJECT_DIR$/Topics/Constructors/How many primary constructors" />
+            <option value="$PROJECT_DIR$/Topics/Constructors/Implicit constructor" />
+            <option value="$PROJECT_DIR$/Topics/Constructors/Init usage" />
+            <option value="$PROJECT_DIR$/Topics/Constructors/Pets" />
+            <option value="$PROJECT_DIR$/Topics/Constructors/Point2D" />
+            <option value="$PROJECT_DIR$/Topics/Constructors/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Data class/Allowance for constructors" />
+            <option value="$PROJECT_DIR$/Topics/Data class/Illegal to override" />
+            <option value="$PROJECT_DIR$/Topics/Data class/Not overridable" />
+            <option value="$PROJECT_DIR$/Topics/Data class/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Data class/toString() modification" />
+            <option value="$PROJECT_DIR$/Topics/Declaring classes/Complex numbers" />
+            <option value="$PROJECT_DIR$/Topics/Declaring classes/New planet" />
+            <option value="$PROJECT_DIR$/Topics/Declaring classes/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Default arguments/Determine the result" />
+            <option value="$PROJECT_DIR$/Topics/Default arguments/Invocations" />
+            <option value="$PROJECT_DIR$/Topics/Default arguments/Polynomial" />
+            <option value="$PROJECT_DIR$/Topics/Default arguments/Print Username" />
+            <option value="$PROJECT_DIR$/Topics/Default arguments/Summation" />
+            <option value="$PROJECT_DIR$/Topics/Default arguments/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Functional decomposition/Calculator with four functions" />
+            <option value="$PROJECT_DIR$/Topics/Functional decomposition/Example of functional decomposition" />
+            <option value="$PROJECT_DIR$/Topics/Functional decomposition/Items of functional decomposition" />
+            <option value="$PROJECT_DIR$/Topics/Functional decomposition/Password decomposition" />
+            <option value="$PROJECT_DIR$/Topics/Functional decomposition/Roots of quadratic equation" />
+            <option value="$PROJECT_DIR$/Topics/Functional decomposition/Some exceptions" />
+            <option value="$PROJECT_DIR$/Topics/Functional decomposition/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Inheritance/Constructing a hierarchy" />
+            <option value="$PROJECT_DIR$/Topics/Inheritance/Create a child class" />
+            <option value="$PROJECT_DIR$/Topics/Inheritance/Fix bugs" />
+            <option value="$PROJECT_DIR$/Topics/Inheritance/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Member functions/Arithmetic operations" />
+            <option value="$PROJECT_DIR$/Topics/Member functions/Bugs in a vinyl store" />
+            <option value="$PROJECT_DIR$/Topics/Member functions/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Member functions/Volume of a cube" />
+            <option value="$PROJECT_DIR$/Topics/Named arguments/Perimeter" />
+            <option value="$PROJECT_DIR$/Topics/Named arguments/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Named arguments/URL" />
+            <option value="$PROJECT_DIR$/Topics/Nullable and non-nullable types/Declare null" />
+            <option value="$PROJECT_DIR$/Topics/Nullable and non-nullable types/Line length" />
+            <option value="$PROJECT_DIR$/Topics/Nullable and non-nullable types/Mixed nullable" />
+            <option value="$PROJECT_DIR$/Topics/Nullable and non-nullable types/Safe call" />
+            <option value="$PROJECT_DIR$/Topics/Nullable and non-nullable types/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Nullable and non-nullable types/What's your name" />
+            <option value="$PROJECT_DIR$/Topics/Scopes/Cyclist" />
+            <option value="$PROJECT_DIR$/Topics/Scopes/Inside a function" />
+            <option value="$PROJECT_DIR$/Topics/Scopes/Open chest in Hogwarts" />
+            <option value="$PROJECT_DIR$/Topics/Scopes/Power and scopes" />
+            <option value="$PROJECT_DIR$/Topics/Scopes/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Scopes/Unlucky one" />
+            <option value="$PROJECT_DIR$/Topics/Scopes/What is the scope" />
+            <option value="$PROJECT_DIR$/Topics/The try-catch-finally statement/Choose the correct option" />
+            <option value="$PROJECT_DIR$/Topics/The try-catch-finally statement/Finalizing" />
+            <option value="$PROJECT_DIR$/Topics/The try-catch-finally statement/The Answer is" />
+            <option value="$PROJECT_DIR$/Topics/The try-catch-finally statement/The finally block" />
+            <option value="$PROJECT_DIR$/Topics/The try-catch-finally statement/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Type system/Can it go through" />
+            <option value="$PROJECT_DIR$/Topics/Type system/Hello" />
+            <option value="$PROJECT_DIR$/Topics/Type system/String length" />
+            <option value="$PROJECT_DIR$/Topics/Type system/Theory" />
+            <option value="$PROJECT_DIR$/Topics/toString()/Espresso" />
+            <option value="$PROJECT_DIR$/Topics/toString()/Inheritance" />
+            <option value="$PROJECT_DIR$/Topics/toString()/Latte" />
+            <option value="$PROJECT_DIR$/Topics/toString()/Number of cups" />
+            <option value="$PROJECT_DIR$/Topics/toString()/Tea" />
+            <option value="$PROJECT_DIR$/Topics/toString()/Theory" />
+            <option value="$PROJECT_DIR$/Topics/toString()/User Information" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

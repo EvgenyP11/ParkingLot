@@ -1,0 +1,48 @@
+type: code
+files:
+- name: src/Main.kt
+  visible: true
+  text: |-
+    // Implement your functions here
+    fun subtractTwoNumbers...
+
+
+    fun sumTwoNumbers...
+
+
+    fun divideTwoNumbers...
+
+
+    fun multiplyTwoNumbers...
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/12673#comment
+status: Failed
+feedback:
+  message: |
+    Compilation error
+    main.kt:19:30: error: type mismatch: inferred type is Long but Double was expected
+            "+" -> sumTwoNumbers(num1, num2)
+                                 ^
+    main.kt:19:36: error: type mismatch: inferred type is Long but Double was expected
+            "+" -> sumTwoNumbers(num1, num2)
+                                       ^
+    main.kt:20:35: error: type mismatch: inferred type is Long but Double was expected
+            "-" -> subtractTwoNumbers(num1, num2)
+                                      ^
+    main.kt:20:41: error: type mismatch: inferred type is Long but Double was expected
+            "-" -> subtractTwoNumbers(num1, num2)
+                                            ^
+    main.kt:21:33: error: type mismatch: inferred type is Long but Double was expected
+            "/" -> divideTwoNumbers(num1, num2)
+                                    ^
+    main.kt:21:39: error: type mismatch: inferred type is Long but Double was expected
+            "/" -> divideTwoNumbers(num1, num2)
+                                          ^
+    main.kt:22:35: error: type mismatch: inferred type is Long but Double was expected
+            "*" -> multiplyTwoNumbers(num1, num2)
+                                      ^
+    main.kt:22:41: error: type mismatch: inferred type is Long but Double was expected
+            "*" -> multiplyTwoNumbers(num1, num2)
+                                            ^
+  time: Sun, 26 Feb 2023 13:12:53 UTC
+record: -1

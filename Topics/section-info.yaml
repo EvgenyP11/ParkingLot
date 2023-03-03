@@ -1,0 +1,16 @@
+content:
+- Declaring classes
+- Functional decomposition
+- Default arguments
+- Named arguments
+- Constructors
+- Arrays
+- Type system
+- The try-catch-finally statement
+- Member functions
+- Nullable and non-nullable types
+- Characters
+- Scopes
+- Inheritance
+- toString()
+- Data class

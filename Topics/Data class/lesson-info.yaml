@@ -1,0 +1,6 @@
+content:
+- Theory
+- Not overridable
+- Illegal to override
+- Allowance for constructors
+- toString() modification
